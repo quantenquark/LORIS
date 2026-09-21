@@ -1,6 +1,6 @@
 # LORIS
 
-![elv_modulsystem_papagei.jpg
+elv_modulsystem_papagei.jpg
 
 ## LoRaWAN applications for ELV devices  / ELV-BM-TRX1 code templates
 
