@@ -1,4 +1,4 @@
-# LORIS
+# LORIS (DRAFT)
 ![Base](elv-lw-base.jpg)
 ## LoRaWAN applications for ELV devices  / ELV-BM-TRX1 code templates
 
