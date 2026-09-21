@@ -1,2 +1,2 @@
 # LORIS
-LoRaWAN applications for ELV devices
+LoRaWAN applications for ELV devices  / ELV-BM-TRX1 code templates
